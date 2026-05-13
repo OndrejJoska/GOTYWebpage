@@ -1,0 +1,14 @@
+h1{text-align: center;}
+h2{text-align: center;}
+.content{width: 500px;margin: auto;}
+img{width: 500px;}
+.picture{display: 
+    flex ;justify-content: center;}
+    img:hover{transition: 0.8s;scale: 110%;}
+/* ::-webkit-scrollbar{display: none;} */
+.navbar {display: flex;
+flex-direction: column; position: absolute;
+border-style: solid;border-radius: 20px;}
+
+.navbar a{padding: 10px;text-decoration: none;
+    color: black;}
